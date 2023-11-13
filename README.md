@@ -22,4 +22,7 @@ This is a simple assembly language program that performs the following tasks:
  - Inserting Delay for 1 second. 
  - Decrements the time values and calls the loop again and again until the values of all mintues, seconds and hours becomes zero.
 
-
+# Images
+![output-1](images/Output-1.png)
+![output-2](images/Output-2.png)
+![output-3](images/Output-3.png)
