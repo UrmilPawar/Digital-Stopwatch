@@ -5,7 +5,7 @@ This project involves designing of stopwatch using assembly language.
 
 This is a simple assembly language program that performs the following tasks:
 
-1. Defining default number of hours, minutes, seconds. 
+1. Defining default number of hours, minutes, seconds.
 2. Contains procedures for:
  - Clearing the screen (clear)
  - Printing 2 digit numbers (print) 
